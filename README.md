@@ -15,8 +15,8 @@
 
 ## About Me
 
-I build real systems, not demos.  
-Focused on backend architecture, distributed systems, and production-ready AI.
+Building real systems, not demos.
+Focused on backend architecture, distributed systems, and production ready AI.
 
 Worked on:
 - Scalable platforms handling thousands of users
@@ -24,7 +24,7 @@ Worked on:
 - Cost optimized APIs
 - AI evaluation agents
 
-I care about **performance**, **reliability**, and **clean system design**.
+Care about **performance**, **reliability**, and **clean system design**.
 
 ## Tech Stack
 
