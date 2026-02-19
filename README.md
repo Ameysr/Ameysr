@@ -36,27 +36,25 @@ I care about **performance**, **reliability**, and **clean system design**.
 
 ## Tech Stack
 
-| Layer | Technologies |
-|---|---|
-| **Backend** | Node.js, Express, WebSockets |
-| **Databases** | MongoDB, Redis, PostgreSQL |
-| **Infra** | AWS, VPS, Vercel, Docker |
-| **AI** | RAG pipelines, LLM agents, prompt systems, eval frameworks |
-| **Core CS** | Data Structures, concurrency, system design |
+**Backend:** Node.js, Express, WebSockets  
+**Databases:** MongoDB, Redis, PostgreSQL  
+**Infra:** AWS, VPS, Vercel, Docker  
+**AI:** RAG pipelines, LLM agents, prompt systems, eval frameworks  
+**Core CS:** Data Structures, concurrency, system design
 
 ---
 
 ## Major Projects
 
-### [PeerPro](https://peerpro.in) &nbsp;·&nbsp; `peerpro.in`
-> **Connect and Stay Consistent**
+**PeerPro** &nbsp;·&nbsp; [peerpro.in](https://peerpro.in)  
+> Connect and Stay Consistent
 
 A peer accountability platform built to keep you on track with your goals. Connect with like minded developers, share progress, and stay consistent through community driven accountability loops.
 
 ---
 
-### [Codex](https://codexs.site) &nbsp;·&nbsp; `codex.site`
-> **DSA Problem Solving Platform**
+**Codex** &nbsp;·&nbsp; [codex.site](https://codexs.site)  
+> DSA Problem Solving Platform
 
 A curated platform for Data Structures & Algorithms practice. Built for developers who want structured, focused DSA prep with a clean, distraction free experience.
 
@@ -70,8 +68,7 @@ A curated platform for Data Structures & Algorithms practice. Built for develope
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ameysr&style=flat-square&color=blueviolet" alt="Profile views" />
-</p>
+## Contact
 
-<p align="center"><b>Build fast. Scale smart.</b></p>
+**Email:** [ranaware.amey@gmail.com](mailto:ranaware.amey@gmail.com)  
+**Website:** [ameyx.in](https://ameyx.in)
