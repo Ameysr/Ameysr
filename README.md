@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./banner.jfif" alt="Veni. Vidi. Vici." width="100%" />
-</div>
+
 
 <h1 align="center">Amey Ranaware</h1>
 <p align="center"><em>Software Engineer &nbsp;·&nbsp; Systems + Gen AI</em></p>
