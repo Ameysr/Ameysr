@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="./banner.jfif" alt="Veni. Vidi. Vici." width="100%" />
+  <img src="./banner.jpg" alt="Veni. Vidi. Vici." width="100%" />
 </div>
-
----
 
 <h1 align="center">Amey Ranaware</h1>
 <p align="center"><em>Software Engineer &nbsp;·&nbsp; Systems + Gen AI</em></p>
@@ -17,8 +15,6 @@
   <a href="https://www.linkedin.com/in/amey-ranaware-8537062a0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
-
 ## About Me
 
 I build real systems, not demos.  
@@ -32,8 +28,6 @@ Worked on:
 
 I care about **performance**, **reliability**, and **clean system design**.
 
----
-
 ## Tech Stack
 
 **Backend:** Node.js, Express, WebSockets  
@@ -42,8 +36,6 @@ I care about **performance**, **reliability**, and **clean system design**.
 **AI:** RAG pipelines, LLM agents, prompt systems, eval frameworks  
 **Core CS:** Data Structures, concurrency, system design
 
----
-
 ## Major Projects
 
 **PeerPro** &nbsp;·&nbsp; [peerpro.in](https://peerpro.in)  
@@ -51,22 +43,16 @@ I care about **performance**, **reliability**, and **clean system design**.
 
 A peer accountability platform built to keep you on track with your goals. Connect with like minded developers, share progress, and stay consistent through community driven accountability loops.
 
----
-
 **Codex** &nbsp;·&nbsp; [codex.site](https://codexs.site)  
 > DSA Problem Solving Platform
 
 A curated platform for Data Structures & Algorithms practice. Built for developers who want structured, focused DSA prep with a clean, distraction free experience.
-
----
 
 ## Current Focus
 
 - Building scalable architectures
 - Production Gen AI systems
 - High performance backend design
-
----
 
 ## Contact
 
