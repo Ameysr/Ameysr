@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.jpg" alt="Veni. Vidi. Vici." width="100%" />
+  <img src="./banner.jfif" alt="Veni. Vidi. Vici." width="100%" />
 </div>
 
 <h1 align="center">Amey Ranaware</h1>
