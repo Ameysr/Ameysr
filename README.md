@@ -1,2 +1,4 @@
-<p><em>Software Engineer · Systems + Gen AI</em></p>
-**Website:** [ameyx.in](https://ameyx.in)
+Backend Engineer + Gen AI
+
+Website: ameyx.in
+X: x.com/internetDevv
