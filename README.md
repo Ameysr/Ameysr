@@ -1,4 +1,4 @@
-Backend Engineer + Gen AI
+### Backend Engineer + Gen AI
 
-Website: ameyx.in
-X: x.com/internetDevv
+**Website:** [ameyx.in](https://ameyx.in)  
+**X:** [x.com/internetDevv](https://x.com/internetDevv)
