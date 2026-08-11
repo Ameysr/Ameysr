@@ -4,11 +4,7 @@
 <b>X:</b> <a href="https://x.com/internetDevv">x.com/internetDevv</a>
 </p>
 <h3>Open Source Contributions</h3>
- 
 <p>
-<img src="https://img.shields.io/badge/mem0.ai-YC%20S24-orange?style=for-the-badge" alt="mem0.ai YC S24"/>
-<img src="https://img.shields.io/badge/traceroot.ai-YC%20S25-blue?style=for-the-badge" alt="traceroot.ai YC S25"/>
-<img src="https://img.shields.io/badge/repowise-contributor-brightgreen?style=for-the-badge" alt="repowise"/>
-<img src="https://img.shields.io/badge/opensre-contributor-purple?style=for-the-badge" alt="opensre"/>
+<b>mem0.ai</b> (YC S24) &nbsp;·&nbsp; <b>traceroot.ai</b> (YC S25) &nbsp;·&nbsp; <b>repowise</b> &nbsp;·&nbsp; <b>opensre</b>
 </p>
-<p> details on portfolio</p>
+<p>details on portfolio</p>
