@@ -4,7 +4,5 @@
 <b>X:</b> <a href="https://x.com/internetDevv">x.com/internetDevv</a>
 </p>
 
-<h3>Open Source Contributions</h3>
-<p>
-<b>mem0.ai</b> (YC S24) &nbsp;·&nbsp; <b>traceroot.ai</b> (YC S25) &nbsp;·&nbsp; <b>repowise</b> &nbsp;·&nbsp; <b>opensre</b> (details on my portfolio)
-</p>
+<h3>Open Source Contributions:</h3><b>mem0.ai</b> (YC S24) &nbsp;·&nbsp; <b>traceroot.ai</b> (YC S25) &nbsp;·&nbsp; <b>repowise</b> &nbsp;·&nbsp; <b>opensre</b>
+
